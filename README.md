@@ -2,6 +2,8 @@
 ### Objective:
 To analyze and visualize Adventure Works’ business data, enabling stakeholders to understand sales performance, customer trends, product profitability, and regional growth.
 
+![image](https://github.com/SarthakUdavant/ADVENTURE-WORKS-ANALYSIS/blob/9ec1a77098c4a245298b9a0691913984e7d7c28e/Dashboard%20And%20Map/download.png)
+
 ### Key Areas of Analysis:
 * Sales Performance: Tracks total sales, profit, and order volume across different time periods.
 * Product Insights: Identifies top-selling products, product categories, and revenue contributions.
@@ -40,6 +42,8 @@ To analyze and visualize Adventure Works’ business data, enabling stakeholders
   
 4. Measures Created:
 * Total Sales, Total Profit, Sales Growth %, Profit Margin, etc.
+  
+![image alt](https://github.com/SarthakUdavant/ADVENTURE-WORKS-ANALYSIS/blob/6f5e2876bbfaf77a5ef95f7ab104047c9ba011ad/Dashboard%20And%20Map/Dashboard.png)
 
   ### 🔑 Key Highlights
 * Total Revenue Generated: Significant revenue contribution from online sales vs. in-store.
@@ -47,6 +51,8 @@ To analyze and visualize Adventure Works’ business data, enabling stakeholders
 * Sales by Region: The US and Canada are the most profitable regions.
 * Customer Segmentation: Repeat customers contribute over 60% of sales.
 * Order Trends: Peak orders in Q2 and Q4, indicating seasonal buying behavior.
+
+![image](https://github.com/SarthakUdavant/ADVENTURE-WORKS-ANALYSIS/blob/6f5e2876bbfaf77a5ef95f7ab104047c9ba011ad/Dashboard%20And%20Map/Screenshot%202025-07-05%20143012.png)
 
 ### 📊 Top Insights
 1.Top-Selling Categories:
@@ -83,15 +89,11 @@ Leverage time-based trends to launch promotions during high-sales periods (e.g.,
 1. Target High-Potential Regions
 Expand in regions showing consistent growth in revenue and customer acquisition.
 
-### 👥 Customer Behavior Recommendations
-1. Loyalty & Retention Programs
-Focus on customers with repeat purchases. Implement loyalty rewards or email campaigns to retain them.
-2. Customer Segmentation Strategy
-Segment customers by demographics or buying frequency. Tailor campaigns based on these segments.
 
-📦 Inventory & Product Recommendations
+### 📦 Inventory & Product Recommendations
 1. Optimize Inventory Management
-* Match inventory levels with product sales trends. Avoid overstocking low-demand items.
+* Match inventory levels with product sales trends.
+* Avoid overstocking low-demand items.
 2. Introduce Popular Product Variants
 * If certain products are trending, consider offering variations (colors, sizes, bundles).
 
